@@ -1,5 +1,9 @@
 ### 需要现成的请去csdn下载
-[mupdf-qt库](https://download.csdn.net/download/esonpo/10379393#0-tsina-1-56035-397232819ff9a47a7b7e80a40613cfe1)
+
+* [mupdf-qt库](https://download.csdn.net/download/esonpo/10379393#0-tsina-1-56035-397232819ff9a47a7b7e80a40613cfe1)
+
+* 使用的样式资源[http://www.qtcn.org/bbs/u/110085](http://www.qtcn.org/bbs/u/110085)
+
 # How to compile mupdf-qt
 
 ## Compile on Linux
